@@ -107,7 +107,7 @@ ISBN-10:     0-13-320936-9
 
     1.  Temperature, Thermal Energy, and Heat
     2.  The Transfer of Heat
-    3.  Termal Properties
+    3.  Thermal Properties
 
 12. Characteristics of  Waves
 
@@ -116,6 +116,9 @@ ISBN-10:     0-13-320936-9
     1.  What are Waves?
     2.  Properties of Waves
     3.  Interactions of Waves
+      [Diffraction grating](https://www.agilent.com/cs/library/applications/5991-9382EN-grating_qc_cary_ums.pdf)
+      [Standing Wavesvideo](https://www.youtube.com/watch?v=-gr7KmTOrx0)
+      [StandingWavediagram_harmonics](https://www.physicsclassroom.com/class/sound/Lesson-4/Standing-Wave-Patterns)
 
 # Book 3
 
